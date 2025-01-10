@@ -6,4 +6,4 @@ language in “Kotlin”, platform is android studio and database used is Goggle
 will be integrated with the database to retrieve user information.
 The app has the potential to significantly improve the efficiency and accuracy of user
 can easily get the protection. It can help to reduce your time you can handle this app 
-anytime
+anytime.
